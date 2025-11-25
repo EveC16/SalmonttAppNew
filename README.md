@@ -6,11 +6,9 @@ Nombre completo: Evelin Castro Carrera: Analista Programador Computacional Sede:
 
 Descripción general del proyecto
 
-Este proyecto es un sistema orientado a objetos desarrollado en Java con IntelliJ IDEA, tiene por objetivo llamar y leer linea por linea un archivo excel,
-para aplicar metodos como filtrar, mostrar y agregar nuevos objetos "Centro Cultivo"
+Este proyecto es un sistema orientado a objetos desarrollado en Java con IntelliJ IDEA Maven, tiene por objetivo llamar y leer linea por linea un archivo excel, para aplicar metodos como filtrar, mostrar y agregar nuevos objetos "Centro Cultivo"
 
 Estructura general del proyecto
-
 
 src -> main -> java -> cl.salmontt -> app    -> Main (clase para ejecutar el proyecto)
                                    -> data   -> GestorCentros (clase que gestiona los datos del archivo excel tiene metodos para filtrar, agregar y listar)
@@ -21,6 +19,7 @@ src -> main -> java -> cl.salmontt -> app    -> Main (clase para ejecutar el pro
 Instrucciones para clonar y ejecutar el proyecto
 
 Clona el repositorio desde GitHub: git clone https://github.com/EveC16/SalmonttAppNew.git
+
 Abre el proyecto en IntelliJ IDEA.
 
 Verifica que el archivo .xlsx este correctamente ubicado.
